@@ -21,13 +21,14 @@ I'm a passionate software developer with expertise in various technologies. I lo
 
 - **LINCOLN**: Link Collection App - Links, Information, Navigation, COllection, and Listing Network.
 
-  - [Frontend](https://github.com/gumelartresnadwinanda/linkcolln_fe)
+  - [Frontend](https://github.com/gumelartresnadwinanda/linkcoln_fe)
   - [Backend](https://github.com/gumelartresnadwinanda/linkcoln-be)
   - [Admin Panel](https://github.com/gumelartresnadwinanda/linkcoln-president)
 
 - **ELEANOR**: Media Library Server - Electronic Library for Entertainment, Audio, and ORganization.
 
   - [Frontend](https://github.com/gumelartresnadwinanda/eleanor-fe)
+  - [Mobile](https://github.com/gumelartresnadwinanda/eleanor)
   - [Backend](https://github.com/gumelartresnadwinanda/eleanor-be)
   - [Admin](https://github.com/gumelartresnadwinanda/eleanor-admin)
 
