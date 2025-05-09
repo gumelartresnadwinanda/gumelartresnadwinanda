@@ -28,17 +28,17 @@ I'm a passionate software developer with expertise in various technologies. I lo
 - **ELEANOR**: Media Library Server - Electronic Library for Entertainment, Audio, and ORganization.
 
   - [Frontend](https://github.com/gumelartresnadwinanda/eleanor-fe)
-  - [Mobile](https://github.com/gumelartresnadwinanda/eleanor)
   - [Backend](https://github.com/gumelartresnadwinanda/eleanor-be)
-  - [Flutter](https://github.com/gumelartresnadwinanda/eleanor-flutter)
+  - [Mobile](https://github.com/gumelartresnadwinanda/eleanor-flutter)
 
 - **CLEO**: Design System - Component Library for Elegant & Organized UI.
+
   - [Repository](https://github.com/gumelartresnadwinanda/cleo)
 
 - **YODA**: Your Organized Database for Archiving - Email Forwarder
   - [Frontend](https://github.com/gumelartresnadwinanda/yoda-fe)
   - [Backend](https://github.com/gumelartresnadwinanda/yoda-be)
-    
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gumelartresnadwinanda&show_icons=true&theme=radical)
